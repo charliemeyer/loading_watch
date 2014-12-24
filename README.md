@@ -1,4 +1,4 @@
 loading_watch
 =============
 
-A graphical pebble watch
+A graphical pebble watchface
