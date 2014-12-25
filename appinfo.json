@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cmey63@gmail.com",
+    "longName": "GraphWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background3.png",
+                "name": "BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "GraphWatch",
+    "uuid": "16207aaf-0d67-45ed-b8f6-a0d40e989a10",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
